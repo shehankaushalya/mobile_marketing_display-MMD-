@@ -1,0 +1,4 @@
+this one is idea about connect online video screeming project
+
+*First edit interface
+*This is for recognize lebal and landmarks of the road and nearest items.
